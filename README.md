@@ -42,11 +42,16 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho mais afinid
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Conquistas & Métricas
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusm1403&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusm1403&layout=compact&theme=dracula" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mateusm1403&theme=dracula&column=7&margin-w=15" alt="Mateus GitHub Trophies" />
+  </a>
+</p>
+
+<p align="left">
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=mateusm1403&theme=dracula&hide_border=true" />
 </p>
 
 ---
