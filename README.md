@@ -4,13 +4,13 @@
 
 ### 🛡️ Sobre Mim
 
-Sou um profissional em evolução na área de **Segurança da Informação e Cybersecurity**. Busco constantemente entender o cenário de ameaças digitais, proteger infraestruturas e aplicar as melhores práticas de governança, defesa e análise de riscos. 
+Sou um profissional de **Segurança da Informação e Cybersecurity**. Busco constantemente entender o cenário de ameaças digitais, proteger infraestruturas e aplicar as melhores práticas de governança, defesa e análise de riscos. 
 
-Atualmente, dedico meu tempo livre a laboratórios práticos, estudos de vulnerabilidades e ao desenvolvimento de projetos que unam automação e segurança.
+Atualmente, dedico meu tempo ao desenvolvimento de projetos em Python voltados para automação de processos, integração de APIs e ferramentas utilitárias, sempre aliando lógica de programação à cultura DevSecOps.
 
-- 🎯 **Foco atual:** Segurança de Redes, Pentesting Basico, Hardening de Sistemas e SIEM/Monitoramento.
-- 💬 **Fale comigo sobre:** Linux, configuração de servidores, ferramentas de SecOps e jogos de RPG nas horas vagas.
-- ⚡ **Curiosidade:** Adoro decifrar como as coisas funcionam por baixo do pano, seja uma linha de código ou a eletrônica de um sistema.
+- 🎯 **Foco atual:** Desenvolvimento Python (Scripts, APIs e Automação), Lógica de Programação, Estruturas de Dados e Clean Code.
+- 💬 **Fale comigo sobre:** Linux, configuração de servidores, ferramentas de SecOps e jogos de RPG.
+- ⚡ **Curiosidade:** Adoro decifrar como as coisas funcionam por baixo do pano, seja uma linha de código ou a infra de um sistema.
 
 ---
 
