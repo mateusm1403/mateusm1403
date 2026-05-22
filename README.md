@@ -27,12 +27,14 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho mais afinid
 #### 🛡️ Segurança, Web & Infraestrutura
 
 **Offensive Security (Web & Network):**
+
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=portswigger&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4B0082?style=for-the-badge&logo=security&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-2572B2?style=for-the-badge&logo=owasp&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2496ED?style=for-the-badge&logo=rapid7&logoColor=white)
 
 **Defesa, Monitoramento & Infra (Blue Team):**
+
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=green)
 ![Grafana](https://img.shields.io/badge/Grafana-F46430?style=for-the-badge&logo=grafana&logoColor=white)
